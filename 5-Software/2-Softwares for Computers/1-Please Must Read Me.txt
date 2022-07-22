@@ -1,0 +1,9 @@
+Both of LaserGRBL and LightBurn are the popular laser control softwares for Computers.
+
+LaserGRBL is open source and free, but only support Windows computers.
+LightBurn is a paid software, but could support all of Winows, MAC OS and Linux computers.
+
+You could choose one of them according to your preference.
+
+For more, please browse the product page: 
+https://ortur.tech/olm3/
